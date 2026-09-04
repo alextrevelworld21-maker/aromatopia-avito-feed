@@ -10,6 +10,13 @@
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <Title>Свеча Aromatopia Wild Berries &amp; Honey 60 г</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/02-catalog.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/04-flatlay.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/05-gift.jpg"/>
+    </Images>
     <Description><![CDATA[Новая ароматическая свеча Aromatopia Wild Berries & Honey в фирменной коробке.
 
 Нежный ягодно-цветочный аромат с медовой сладостью и мягким мускусным шлейфом. Подойдёт для дома, спальни, ванной комнаты, рабочего места или в подарок.
@@ -26,7 +33,7 @@
     <Price>390</Price>
   </Ad>
   <Ad>
-    <Id>aromatopia-diffuser-mandarin-coriander-50</Id>
+    <Id>aromatopia-diffuser-mandarin-coriander-150</Id>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
@@ -34,20 +41,27 @@
     <GoodsType>Предметы интерьера, искусство</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Аромадиффузор Aromatopia Mandarin Coriander</Title>
-    <Description><![CDATA[Новый аромадиффузор Aromatopia Mandarin Coriander, 50 мл.
+    <Title>Аромадиффузор Aromatopia Mandarin Coriander 150 мл</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/02-catalog.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/04-flatlay.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/05-gift.jpg"/>
+    </Images>
+    <Description><![CDATA[Новый аромадиффузор Aromatopia Mandarin Coriander, 150 мл, в фирменной коробке.
 
 Свежий цитрусово-пряный аромат с нотами мандарина, яблока, кориандра и мягкого мускуса. Подойдёт для спальни, ванной комнаты, прихожей, офиса или в подарок.
 
 Характеристики:
 — бренд Aromatopia
-— объём 50 мл
+— объём 150 мл
 — диффузор с палочками
 — срок действия аромата до 2 месяцев
 — натуральные ароматические масла
 — разработано в Австралии
 
 В комплекте флакон с ароматом и палочки. Товар новый, в наличии.]]></Description>
-    <Price>590</Price>
+    <Price>1690</Price>
   </Ad>
 </Ads>
