@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>aromatopia-candle-mandarin-coriander-60</Id>
+    <ListingFee>Package</ListingFee>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Свечи</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Title>Ароматическая свеча Aromatopia Mandarin Coriander, 60 г</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/02-catalog.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/04-flatlay.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/05-gift.jpg"/>
+    </Images>
+    <Description><![CDATA[Новая ароматическая свеча Aromatopia Mandarin Coriander в фирменной коробке.
+
+Свежий цитрусово-пряный аромат: мандарин и апельсин раскрываются нотами кориандра и яблока, а завершает композицию мягкий сладкий мускус.
+
+Характеристики:
+— масса 60 г
+— кокосовый воск
+— натуральные ароматические масла
+— до 15 часов горения
+— новая, не использовалась
+— фирменная упаковка
+
+Подойдёт для спальни, ванной, рабочего места или в подарок. Авито Доставка доступна: её стоимость рассчитывается Авито и оплачивается покупателем отдельно. Есть несколько штук в наличии.]]></Description>
+    <Price>390</Price>
+    <Delivery>ПВЗ</Delivery>
+    <WeightForDelivery>0.2</WeightForDelivery>
+    <LengthForDelivery>10</LengthForDelivery>
+    <HeightForDelivery>10</HeightForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
+  </Ad>
+
+  <Ad>
     <Id>aromatopia-candle-wild-berries-honey-60</Id>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
     <Category>Мебель и интерьер</Category>
     <GoodsType>Предметы интерьера, искусство</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Свечи</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Свеча Aromatopia Wild Berries &amp; Honey 60 г</Title>
+    <Title>Ароматическая свеча Aromatopia Wild Berries &amp; Honey, 60 г</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/02-catalog.jpg"/>
@@ -19,29 +63,78 @@
     </Images>
     <Description><![CDATA[Новая ароматическая свеча Aromatopia Wild Berries & Honey в фирменной коробке.
 
-Нежный ягодно-цветочный аромат с медовой сладостью и мягким мускусным шлейфом. Подойдёт для дома, спальни, ванной комнаты, рабочего места или в подарок.
+Нежный ягодно-цветочный аромат с медовой сладостью. Верхние ноты — жимолость и лимон; ноты сердца — малина, жасмин и мёд; базовые ноты — нарцисс и мускус.
 
 Характеристики:
-— вес 60 г
-— до 15 часов горения
+— масса 60 г
 — кокосовый воск
 — натуральные ароматические масла
-— фирменная коробка
-— разработано в Австралии
+— до 15 часов горения
+— новая, не использовалась
+— фирменная упаковка
 
-Свеча новая, не использовалась. Есть несколько штук в наличии. Можно собрать набор из разных ароматов.]]></Description>
+Подойдёт для спальни, ванной, рабочего места или в подарок. Авито Доставка доступна: её стоимость рассчитывается Авито и оплачивается покупателем отдельно. Есть несколько штук в наличии.]]></Description>
     <Price>390</Price>
+    <Delivery>ПВЗ</Delivery>
+    <WeightForDelivery>0.2</WeightForDelivery>
+    <LengthForDelivery>10</LengthForDelivery>
+    <HeightForDelivery>10</HeightForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
   </Ad>
+
+  <Ad>
+    <Id>aromatopia-candle-coconut-mango-60</Id>
+    <ListingFee>Package</ListingFee>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Свечи</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Title>Ароматическая свеча Aromatopia Coconut &amp; Mango, 60 г</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/02-catalog.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/04-flatlay.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/05-gift.jpg"/>
+    </Images>
+    <Description><![CDATA[Новая ароматическая свеча Aromatopia Coconut & Mango в фирменной коробке.
+
+Сочный тропический аромат: манго и персик сочетаются с кокосом и жасмином, а розовое дерево и ваниль создают мягкий тёплый шлейф.
+
+Характеристики:
+— масса 60 г
+— кокосовый воск
+— до 15 часов горения
+— новая, не использовалась
+— фирменная упаковка
+
+Подойдёт для спальни, ванной, рабочего места или в подарок. Авито Доставка доступна: её стоимость рассчитывается Авито и оплачивается покупателем отдельно. Есть несколько штук в наличии.]]></Description>
+    <Price>390</Price>
+    <Delivery>ПВЗ</Delivery>
+    <WeightForDelivery>0.2</WeightForDelivery>
+    <LengthForDelivery>10</LengthForDelivery>
+    <HeightForDelivery>10</HeightForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
+  </Ad>
+
   <Ad>
     <Id>aromatopia-diffuser-mandarin-coriander-150</Id>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
     <Category>Мебель и интерьер</Category>
     <GoodsType>Предметы интерьера, искусство</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Аромадиффузор Aromatopia Mandarin Coriander 150 мл</Title>
+    <Title>Аромадиффузор Aromatopia Mandarin Coriander, 150 мл</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/02-catalog.jpg"/>
@@ -49,19 +142,63 @@
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/04-flatlay.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/05-gift.jpg"/>
     </Images>
-    <Description><![CDATA[Новый аромадиффузор Aromatopia Mandarin Coriander, 150 мл, в фирменной коробке.
+    <Description><![CDATA[Новый аромадиффузор Aromatopia Mandarin Coriander в фирменной коробке.
 
-Свежий цитрусово-пряный аромат с нотами мандарина, яблока, кориандра и мягкого мускуса. Подойдёт для спальни, ванной комнаты, прихожей, офиса или в подарок.
+Свежий цитрусово-пряный аромат для дома или офиса. Верхние ноты — апельсин и мандарин; ноты сердца — кориандр и яблоко; базовая нота — сладкий мускус.
 
 Характеристики:
-— бренд Aromatopia
 — объём 150 мл
-— диффузор с палочками
-— срок действия аромата до 2 месяцев
-— натуральные ароматические масла
-— разработано в Австралии
+— до 2 месяцев аромата
+— ротанговые палочки в комплекте
+— новый, не использовался
+— фирменная упаковка
 
-В комплекте флакон с ароматом и палочки. Товар новый, в наличии.]]></Description>
+Интенсивность легко регулировать количеством палочек. Авито Доставка доступна: её стоимость рассчитывается Авито и оплачивается покупателем отдельно. Есть несколько штук в наличии.]]></Description>
     <Price>1690</Price>
+    <Delivery>ПВЗ</Delivery>
+    <WeightForDelivery>0.6</WeightForDelivery>
+    <LengthForDelivery>12</LengthForDelivery>
+    <HeightForDelivery>30</HeightForDelivery>
+    <WidthForDelivery>12</WidthForDelivery>
+  </Ad>
+
+  <Ad>
+    <Id>aromatopia-diffuser-wild-berries-honey-50</Id>
+    <ListingFee>Package</ListingFee>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Title>Аромадиффузор Aromatopia Wild Berries &amp; Honey, 50 мл</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/02-catalog.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/04-flatlay.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/05-gift.jpg"/>
+    </Images>
+    <Description><![CDATA[Новый аромадиффузор Aromatopia Wild Berries & Honey в фирменной коробке.
+
+Нежный ягодно-медовый аромат. Верхние ноты — жимолость и лимон; ноты сердца — малина, жасмин и мёд; базовые ноты — нарцисс и мускус.
+
+Характеристики:
+— объём 50 мл
+— до 2 месяцев аромата
+— палочки в комплекте
+— новый, не использовался
+— фирменная упаковка
+
+Подойдёт для спальни, ванной, прихожей, рабочего места или в подарок. Авито Доставка доступна: её стоимость рассчитывается Авито и оплачивается покупателем отдельно. Есть несколько штук в наличии.]]></Description>
+    <Price>590</Price>
+    <Delivery>ПВЗ</Delivery>
+    <WeightForDelivery>0.35</WeightForDelivery>
+    <LengthForDelivery>10</LengthForDelivery>
+    <HeightForDelivery>25</HeightForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
   </Ad>
 </Ads>
