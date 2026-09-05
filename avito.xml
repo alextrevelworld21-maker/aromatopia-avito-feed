@@ -10,6 +10,10 @@
     <GoodsType>Предметы интерьера, искусство</GoodsType>
     <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
     <InteriorSubType>Свечи</InteriorSubType>
+    <CandlesType>Интерьерная</CandlesType>
+    <Aromatic>Да</Aromatic>
+    <CandlesCompound>Кокосовый воск</CandlesCompound>
+    <CandlesForm>В стакане</CandlesForm>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
@@ -49,6 +53,11 @@
     <GoodsType>Предметы интерьера, искусство</GoodsType>
     <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
     <InteriorSubType>Свечи</InteriorSubType>
+    <CandlesType>Интерьерная</CandlesType>
+    <Aromatic>Да</Aromatic>
+    <CandlesCompound>Кокосовый воск</CandlesCompound>
+    <CandlesForm>В стакане</CandlesForm>
+    <Color>Розовый</Color>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
@@ -88,6 +97,11 @@
     <GoodsType>Предметы интерьера, искусство</GoodsType>
     <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
     <InteriorSubType>Свечи</InteriorSubType>
+    <CandlesType>Интерьерная</CandlesType>
+    <Aromatic>Да</Aromatic>
+    <CandlesCompound>Кокосовый воск</CandlesCompound>
+    <CandlesForm>В стакане</CandlesForm>
+    <Color>Розовый</Color>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
     <Availability>В наличии</Availability>
