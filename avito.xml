@@ -12,7 +12,8 @@
     <InteriorSubType>Свечи</InteriorSubType>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Ароматическая свеча Aromatopia Mandarin Coriander, 60 г</Title>
+    <Availability>В наличии</Availability>
+    <Title>Свеча Aromatopia Mandarin Coriander, 60 г</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/02-catalog.jpg"/>
@@ -49,7 +50,8 @@
     <InteriorSubType>Свечи</InteriorSubType>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Ароматическая свеча Aromatopia Wild Berries &amp; Honey, 60 г</Title>
+    <Availability>В наличии</Availability>
+    <Title>Свеча Aromatopia Wild Berries &amp; Honey, 60 г</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/02-catalog.jpg"/>
@@ -86,7 +88,8 @@
     <InteriorSubType>Свечи</InteriorSubType>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Ароматическая свеча Aromatopia Coconut &amp; Mango, 60 г</Title>
+    <Availability>В наличии</Availability>
+    <Title>Свеча Aromatopia Coconut &amp; Mango, 60 г</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/02-catalog.jpg"/>
@@ -122,7 +125,8 @@
     <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Аромадиффузор Aromatopia Mandarin Coriander, 50 мл</Title>
+    <Availability>В наличии</Availability>
+    <Title>Диффузор Aromatopia Mandarin Coriander, 50 мл</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/02-catalog.jpg"/>
@@ -158,13 +162,14 @@
     <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
     <AdType>Товар куплен на продажу</AdType>
     <Condition>Новое</Condition>
-    <Title>Аромадиффузор Aromatopia Wild Berries &amp; Honey, 50 мл</Title>
+    <Availability>В наличии</Availability>
+    <Title>Диффузор Aromatopia Wild Berries &amp; Honey, 50 мл</Title>
     <Images>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/01-hero.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/02-catalog.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/03-lifestyle.jpg"/>
       <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/04-flatlay.jpg"/>
-      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/05-gift.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/05-gift-890-v2.jpg"/>
     </Images>
     <Description><![CDATA[Аромадиффузор Aromatopia Wild Berries & Honey в фирменной коробке.
 
