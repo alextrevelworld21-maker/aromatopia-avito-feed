@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "active_feed": false,
+  "owner_rule": "Наборы только отдельными объявлениями; не переносить предложения или фотографии в одиночные SKU.",
+  "listings": [
+    {
+      "Id": "aromatopia-candle-mandarin-coriander-60-set-2-20260906",
+      "Title": "Набор 2 аромосвечей Мандарин",
+      "Price": 750,
+      "Description": "Набор Aromatopia: две аромосвечи Aromatopia Mandarin Coriander, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 750 ₽ указана за весь комплект из 2 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/06-pair-20260907-v4.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-mandarin-coriander-60"
+    },
+    {
+      "Id": "aromatopia-candle-mandarin-coriander-60-set-3-20260907",
+      "Title": "Набор 3 аромосвечей Мандарин",
+      "Price": 1050,
+      "Description": "Набор Aromatopia: три аромосвечи Aromatopia Mandarin Coriander, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 1050 ₽ указана за весь комплект из 3 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/07-triple-20260907-v1.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-mandarin-coriander-60"
+    },
+    {
+      "Id": "aromatopia-candle-wild-berries-honey-60-set-2-20260906",
+      "Title": "Набор 2 аромосвечей Лесные ягоды",
+      "Price": 750,
+      "Description": "Набор Aromatopia: две аромосвечи Aromatopia Wild Berries & Honey, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 750 ₽ указана за весь комплект из 2 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/06-pair-20260906-v3.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-wild-berries-honey-60"
+    },
+    {
+      "Id": "aromatopia-candle-wild-berries-honey-60-set-3-20260907",
+      "Title": "Набор 3 аромосвечей Лесные ягоды",
+      "Price": 1050,
+      "Description": "Набор Aromatopia: три аромосвечи Aromatopia Wild Berries & Honey, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 1050 ₽ указана за весь комплект из 3 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/07-triple-20260907-v1.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-wild-berries-honey-60"
+    },
+    {
+      "Id": "aromatopia-candle-coconut-mango-60-set-2-20260906",
+      "Title": "Набор 2 аромосвечей Кокос",
+      "Price": 750,
+      "Description": "Набор Aromatopia: две аромосвечи Aromatopia Coconut & Mango, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 750 ₽ указана за весь комплект из 2 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/06-pair-20260906-v3.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-coconut-mango-60"
+    },
+    {
+      "Id": "aromatopia-candle-coconut-mango-60-set-3-20260907",
+      "Title": "Набор 3 аромосвечей Кокос",
+      "Price": 1050,
+      "Description": "Набор Aromatopia: три аромосвечи Aromatopia Coconut & Mango, каждая по 60 г, в отдельных фирменных коробках.\n\nЦена 1050 ₽ указана за весь комплект из 3 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/07-triple-20260907-v1.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-candle-coconut-mango-60"
+    },
+    {
+      "Id": "aromatopia-diffuser-mandarin-coriander-150-set-2-20260906",
+      "Title": "Набор 2 диффузоров Мандарин",
+      "Price": 1690,
+      "Description": "Набор Aromatopia: два аромадиффузора Aromatopia Mandarin Coriander, каждый по 50 мл, в отдельных фирменных коробках.\n\nЦена 1690 ₽ указана за весь комплект из 2 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/06-pair-20260906-v3.jpg"
+      ],
+      "InteriorSubType": "Диффузоры, спреи и саше",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150"
+    },
+    {
+      "Id": "aromatopia-diffuser-mandarin-coriander-150-set-3-20260907",
+      "Title": "Набор 3 диффузоров Мандарин",
+      "Price": 2390,
+      "Description": "Набор Aromatopia: три аромадиффузора Aromatopia Mandarin Coriander, каждый по 50 мл, в отдельных фирменных коробках.\n\nЦена 2390 ₽ указана за весь комплект из 3 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/07-triple-20260907-v1.jpg"
+      ],
+      "InteriorSubType": "Диффузоры, спреи и саше",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150"
+    },
+    {
+      "Id": "aromatopia-diffuser-wild-berries-honey-50-set-2-20260906",
+      "Title": "Набор 2 диффузоров Лесные ягоды",
+      "Price": 1690,
+      "Description": "Набор Aromatopia: два аромадиффузора Aromatopia Wild Berries & Honey, каждый по 50 мл, в отдельных фирменных коробках.\n\nЦена 1690 ₽ указана за весь комплект из 2 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/06-pair-20260906-v3.jpg"
+      ],
+      "InteriorSubType": "Диффузоры, спреи и саше",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50"
+    },
+    {
+      "Id": "aromatopia-diffuser-wild-berries-honey-50-set-3-20260907",
+      "Title": "Набор 3 диффузоров Лесные ягоды",
+      "Price": 2390,
+      "Description": "Набор Aromatopia: три аромадиффузора Aromatopia Wild Berries & Honey, каждый по 50 мл, в отдельных фирменных коробках.\n\nЦена 2390 ₽ указана за весь комплект из 3 товаров. Каждый товар в своей фирменной коробке.\n\nВ наличии. Подготовка заказа — от 1 дня. Стоимость Авито Доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/07-triple-20260907-v1.jpg"
+      ],
+      "InteriorSubType": "Диффузоры, спреи и саше",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50"
+    },
+    {
+      "Id": "aromatopia-set-3-candles-mixed-20260908",
+      "Title": "Набор 3 аромосвечей Aromatopia, 60 г",
+      "Price": 1050,
+      "Description": "Набор из трёх разных аромосвечей Aromatopia: Mandarin Coriander, Wild Berries & Honey и Coconut & Mango.\n\nВ наборе:\n— 3 свечи, каждая 60 г\n— кокосовый воск\n— каждая свеча в своей фирменной коробке\n— все товары не использовались\n\nСтоимость набора — 1 050 ₽ вместо 1 170 ₽ по отдельности. Экономия 120 ₽.\n\nАроматы: свежий цитрусово-пряный мандарин с кориандром; нежные лесные ягоды с медовой сладостью; тёплый тропический кокос с манго. Подойдёт для знакомства с коллекцией или в подарок.\n\nВсе товары в наличии. Подготовка заказа — от 1 дня. Авито Доставка доступна через ПВЗ; её стоимость рассчитывается Авито и оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/08-mixed-20260908-v1.jpg"
+      ],
+      "InteriorSubType": "Свечи",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила отдельного размещения",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "existing_draft": "prepared/sets-2026-09-08/ready-two-category-safe-sets.xml"
+    },
+    {
+      "Id": "aromatopia-set-2-diffusers-mixed-20260908",
+      "Title": "Набор 2 аромадиффузоров Aromatopia, 50 мл",
+      "Price": 1690,
+      "Description": "Набор из двух разных аромадиффузоров Aromatopia: Mandarin Coriander и Wild Berries & Honey.\n\nВ наборе:\n— 2 диффузора, каждый 50 мл\n— ротанговые палочки в комплекте\n— каждый диффузор в своей фирменной коробке\n— все товары не использовались\n\nСтоимость набора — 1 690 ₽ вместо 1 780 ₽ по отдельности. Экономия 90 ₽.\n\nАроматы: свежий цитрусово-пряный мандарин с кориандром и нежные лесные ягоды с медовой сладостью. Интенсивность регулируется количеством палочек.\n\nВсе товары в наличии. Подготовка заказа — от 1 дня. Авито Доставка доступна через ПВЗ; её стоимость рассчитывается Авито и оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/08-mixed-20260908-v1.jpg"
+      ],
+      "InteriorSubType": "Диффузоры, спреи и саше",
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить правила отдельного размещения",
+        "Подтвердить свободный лимит размещения"
+      ],
+      "existing_draft": "prepared/sets-2026-09-08/ready-two-category-safe-sets.xml"
+    },
+    {
+      "Id": "aromatopia-set-candle-diffuser-mandarin-20260908",
+      "Title": "Набор Aromatopia Мандарин: свеча и диффузор",
+      "Price": 1190,
+      "Description": "Смешанный набор «Мандарин»: одна аромосвеча 60 г и один аромадиффузор 50 мл Aromatopia Mandarin Coriander — 1 190 ₽ за оба товара вместо 1 280 ₽ по отдельности. Экономия 90 ₽. Каждый товар в своей фирменной коробке.\n\nЦена 1190 ₽ указана за полный комплект. В наличии. Подготовка — от 1 дня. Стоимость доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/08-mixed-20260908-v1.jpg"
+      ],
+      "InteriorSubType": null,
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
+        "Подтвердить правила отдельного размещения",
+        "Подтвердить свободный лимит размещения"
+      ]
+    },
+    {
+      "Id": "aromatopia-set-candle-diffuser-berries-20260908",
+      "Title": "Набор Aromatopia Лесные ягоды: свеча и диффузор",
+      "Price": 1190,
+      "Description": "Смешанный набор «Лесные ягоды»: одна аромосвеча 60 г и один аромадиффузор 50 мл Aromatopia Wild Berries & Honey — 1 190 ₽ за оба товара вместо 1 280 ₽ по отдельности. Экономия 90 ₽. Каждый товар в своей фирменной коробке.\n\nЦена 1190 ₽ указана за полный комплект. В наличии. Подготовка — от 1 дня. Стоимость доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/08-mixed-20260908-v1.jpg"
+      ],
+      "InteriorSubType": null,
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
+        "Подтвердить правила отдельного размещения",
+        "Подтвердить свободный лимит размещения"
+      ]
+    },
+    {
+      "Id": "aromatopia-set-full-five-20260908",
+      "Title": "Набор Aromatopia: 3 свечи и 2 диффузора",
+      "Price": 2690,
+      "Description": "Смешанный набор из всех пяти товаров Aromatopia: три аромосвечи по 60 г — Mandarin Coriander, Wild Berries & Honey, Coconut & Mango — и два аромадиффузора по 50 мл — Mandarin Coriander и Wild Berries & Honey. По одному товару каждого вида, каждый в своей фирменной коробке. Полный набор — 2 690 ₽ вместо 2 950 ₽ по отдельности. Экономия 260 ₽.\n\nЦена 2690 ₽ указана за полный комплект. В наличии. Подготовка — от 1 дня. Стоимость доставки оплачивается покупателем отдельно.",
+      "Images": [
+        "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/08-mixed-20260908-v2.jpg"
+      ],
+      "InteriorSubType": null,
+      "ListingFee": "Package",
+      "AdStatus": "Free",
+      "Delivery": "ПВЗ",
+      "DeliverySubsidy": 0,
+      "Availability": "В наличии",
+      "status": "ПОДГОТОВЛЕНО",
+      "publication_checks": [
+        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
+        "Подтвердить правила отдельного размещения",
+        "Подтвердить свободный лимит размещения"
+      ]
+    }
+  ]
+}
