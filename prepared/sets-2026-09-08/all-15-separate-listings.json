@@ -17,12 +17,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-mandarin-coriander-60"
+      "source_single_id": "aromatopia-candle-mandarin-coriander-60",
+      "AvitoId": 8293921729
     },
     {
       "Id": "aromatopia-candle-mandarin-coriander-60-set-3-20260907",
@@ -38,12 +39,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-mandarin-coriander-60"
+      "source_single_id": "aromatopia-candle-mandarin-coriander-60",
+      "AvitoId": 8231967683
     },
     {
       "Id": "aromatopia-candle-wild-berries-honey-60-set-2-20260906",
@@ -59,12 +61,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-wild-berries-honey-60"
+      "source_single_id": "aromatopia-candle-wild-berries-honey-60",
+      "AvitoId": 8327521110
     },
     {
       "Id": "aromatopia-candle-wild-berries-honey-60-set-3-20260907",
@@ -80,12 +83,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-wild-berries-honey-60"
+      "source_single_id": "aromatopia-candle-wild-berries-honey-60",
+      "AvitoId": 8354362888
     },
     {
       "Id": "aromatopia-candle-coconut-mango-60-set-2-20260906",
@@ -101,12 +105,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-coconut-mango-60"
+      "source_single_id": "aromatopia-candle-coconut-mango-60",
+      "AvitoId": 8272972337
     },
     {
       "Id": "aromatopia-candle-coconut-mango-60-set-3-20260907",
@@ -122,12 +127,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-candle-coconut-mango-60"
+      "source_single_id": "aromatopia-candle-coconut-mango-60",
+      "AvitoId": 8389598884
     },
     {
       "Id": "aromatopia-diffuser-mandarin-coriander-150-set-2-20260906",
@@ -143,12 +149,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150"
+      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150",
+      "AvitoId": 8374644644
     },
     {
       "Id": "aromatopia-diffuser-mandarin-coriander-150-set-3-20260907",
@@ -164,12 +171,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150"
+      "source_single_id": "aromatopia-diffuser-mandarin-coriander-150",
+      "AvitoId": 8402990114
     },
     {
       "Id": "aromatopia-diffuser-wild-berries-honey-50-set-2-20260906",
@@ -185,12 +193,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50"
+      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50",
+      "AvitoId": 8276660744
     },
     {
       "Id": "aromatopia-diffuser-wild-berries-honey-50-set-3-20260907",
@@ -206,12 +215,13 @@
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ЗАПИСАНО В ИСТОЧНИК",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
         "Подтвердить правила для набора одинаковых товаров: иное количество не гарантирует отсутствие дубля",
         "Подтвердить свободный лимит размещения"
       ],
-      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50"
+      "source_single_id": "aromatopia-diffuser-wild-berries-honey-50",
+      "AvitoId": 8274045965
     },
     {
       "Id": "aromatopia-set-3-candles-mixed-20260908",
