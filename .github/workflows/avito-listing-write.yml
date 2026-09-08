@@ -1,6 +1,11 @@
 name: Guarded Avito listing write
 
 on:
+  push:
+    paths:
+      - avito.xml
+      - tools/manage_listing.py
+      - .github/workflows/avito-listing-write.yml
   workflow_dispatch:
     inputs:
       operation:
@@ -38,14 +43,32 @@ on:
         type: string
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: aromatopia-avito-listing-write
   cancel-in-progress: false
 
 jobs:
+  validate-on-push:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate unchanged safety gates
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/manage_listing.py \
+            --file avito.xml \
+            --operation validate \
+            --confirm VALIDATE \
+            --expected-sha256 "$(sha256sum avito.xml | awk '{print $1}')"
+
   guarded-write:
+    if: github.event_name == 'workflow_dispatch'
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
