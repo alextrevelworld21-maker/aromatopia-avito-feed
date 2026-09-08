@@ -1,0 +1,107 @@
+name: Guarded Avito listing write
+
+on:
+  workflow_dispatch:
+    inputs:
+      operation:
+        description: Safe operation
+        required: true
+        type: choice
+        options:
+          - validate
+          - set_price
+          - reopen
+          - schedule_close
+      ad_id:
+        description: Existing allow-listed XML Id
+        required: false
+        type: string
+      new_price:
+        description: New integer price for set_price
+        required: false
+        type: string
+      expected_old_price:
+        description: Expected current integer price
+        required: false
+        type: string
+      effective_at:
+        description: ISO 8601 close time, at least two hours ahead
+        required: false
+        type: string
+      expected_sha256:
+        description: SHA256 of exact avito.xml bytes read before the action
+        required: true
+        type: string
+      confirm:
+        description: VALIDATE, SET_PRICE, REOPEN, or SCHEDULE_CLOSE
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aromatopia-avito-listing-write
+  cancel-in-progress: false
+
+jobs:
+  guarded-write:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate or mutate exact feed
+        id: mutate
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=(
+            --file avito.xml
+            --operation "${{ inputs.operation }}"
+            --confirm "${{ inputs.confirm }}"
+            --expected-sha256 "${{ inputs.expected_sha256 }}"
+          )
+          if [[ -n "${{ inputs.ad_id }}" ]]; then
+            args+=(--ad-id "${{ inputs.ad_id }}")
+          fi
+          if [[ -n "${{ inputs.new_price }}" ]]; then
+            args+=(--new-price "${{ inputs.new_price }}")
+          fi
+          if [[ -n "${{ inputs.expected_old_price }}" ]]; then
+            args+=(--expected-old-price "${{ inputs.expected_old_price }}")
+          fi
+          if [[ -n "${{ inputs.effective_at }}" ]]; then
+            args+=(--effective-at "${{ inputs.effective_at }}")
+          fi
+          output="$(python3 tools/manage_listing.py "${args[@]}")"
+          echo "$output"
+          if grep -q 'changed=true' <<<"$output"; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit guarded change
+        if: steps.mutate.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/manage_listing.py +            --file avito.xml +            --operation validate +            --confirm VALIDATE +            --expected-sha256 "$(sha256sum avito.xml | awk '{print $1}')"
+          git config user.name "Aromatopia automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add avito.xml
+          git diff --cached --exit-code && exit 0
+          git commit -m "Guarded Avito listing ${{ inputs.operation }} for ${{ inputs.ad_id }}"
+          git push
+
+      - name: Report exact result
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "operation=${{ inputs.operation }}"
+          echo "changed=${{ steps.mutate.outputs.changed }}"
+          echo "commit=$(git rev-parse HEAD)"
+          echo "avito_xml_sha256=$(sha256sum avito.xml | awk '{print $1}')"
+          echo "Avito application is not claimed until a separate autoload report confirms it."
