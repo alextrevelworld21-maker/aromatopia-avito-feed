@@ -46,7 +46,12 @@
   <Ad>
     <Id>aromatopia-candle-wild-berries-honey-60</Id>
     <Promo>Auto_1</Promo>
-    <PromoAutoOptions>|100</PromoAutoOptions>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
@@ -92,7 +97,12 @@
   <Ad>
     <Id>aromatopia-candle-coconut-mango-60</Id>
     <Promo>Auto_1</Promo>
-    <PromoAutoOptions>|100</PromoAutoOptions>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
