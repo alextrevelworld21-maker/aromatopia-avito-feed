@@ -634,4 +634,125 @@
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
   </Ad>
+  <Ad>
+    <Id>aromatopia-set-candle-diffuser-mandarin-20260908</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Title>Набор Aromatopia Мандарин: свеча и диффузор</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/08-mixed-20260908-v1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/03-lifestyle.jpg"/>
+    </Images>
+    <Description><![CDATA[Смешанный набор Aromatopia «Мандарин»: одна аромосвеча 60 г и один аромадиффузор 50 мл Mandarin Coriander.
+
+В комплекте:
+— аромосвеча из кокосового воска в стеклянном стакане;
+— аромадиффузор и ротанговые палочки;
+— каждый товар в своей фирменной коробке;
+— оба товара новые и не использовались.
+
+Цена полного набора — 1 190 ₽ вместо 1 280 ₽ по отдельности. Экономия 90 ₽.
+
+Свежий цитрусово-пряный аромат мандарина с кориандром подходит для дома и для подарка.
+
+В наличии. Подготовка заказа — от 1 дня. Авито Доставка доступна через ПВЗ; её стоимость рассчитывается Авито и оплачивается покупателем отдельно.]]></Description>
+    <Price>1190</Price>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>0</DeliverySubsidy>
+  </Ad>
+
+  <Ad>
+    <Id>aromatopia-set-candle-diffuser-berries-20260908</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Title>Набор Aromatopia Лесные ягоды: свеча и диффузор</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/08-mixed-20260908-v1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/03-lifestyle.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/03-lifestyle.jpg"/>
+    </Images>
+    <Description><![CDATA[Смешанный набор Aromatopia «Лесные ягоды»: одна аромосвеча 60 г и один аромадиффузор 50 мл Wild Berries & Honey.
+
+В комплекте:
+— аромосвеча из кокосового воска в стеклянном стакане;
+— аромадиффузор и ротанговые палочки;
+— каждый товар в своей фирменной коробке;
+— оба товара новые и не использовались.
+
+Цена полного набора — 1 190 ₽ вместо 1 280 ₽ по отдельности. Экономия 90 ₽.
+
+Мягкий ягодный аромат с медовой сладостью подходит для дома и для подарка.
+
+В наличии. Подготовка заказа — от 1 дня. Авито Доставка доступна через ПВЗ; её стоимость рассчитывается Авито и оплачивается покупателем отдельно.]]></Description>
+    <Price>1190</Price>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>0</DeliverySubsidy>
+  </Ad>
+
+  <Ad>
+    <Id>aromatopia-set-full-five-20260908</Id>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <AllowEmail>Да</AllowEmail>
+    <Address>Санкт-Петербург</Address>
+    <ContactMethod>В сообщениях</ContactMethod>
+    <Category>Мебель и интерьер</Category>
+    <GoodsType>Предметы интерьера, искусство</GoodsType>
+    <GoodsSubType>Ароматы для дома и свечи</GoodsSubType>
+    <InteriorSubType>Диффузоры, спреи и саше</InteriorSubType>
+    <AdType>Товар куплен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Title>Набор Aromatopia: 3 свечи и 2 диффузора</Title>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/08-mixed-20260908-v2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-coconut-mango/01-hero-clean-20260908-v1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-mandarin-coriander/01-hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/01-hero.jpg"/>
+    </Images>
+    <Description><![CDATA[Полный смешанный набор Aromatopia из всех пяти товаров.
+
+В комплекте:
+— 3 аромосвечи по 60 г: Мандарин, Лесные ягоды и Кокос;
+— 2 аромадиффузора по 50 мл: Мандарин и Лесные ягоды;
+— ротанговые палочки для обоих диффузоров;
+— каждый товар в своей фирменной коробке;
+— все товары новые и не использовались.
+
+Цена полного набора — 2 690 ₽ вместо 2 950 ₽ по отдельности. Экономия 260 ₽.
+
+Готовая коллекция ароматов для дома или большой подарок: свежий цитрусово-пряный мандарин, мягкие лесные ягоды с медовой сладостью и тропический кокос.
+
+В наличии. Подготовка заказа — от 1 дня. Авито Доставка доступна через ПВЗ; её стоимость рассчитывается Авито и оплачивается покупателем отдельно.]]></Description>
+    <Price>2690</Price>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>0</DeliverySubsidy>
+  </Ad>
 </Ads>
