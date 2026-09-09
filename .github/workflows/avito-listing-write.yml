@@ -18,7 +18,7 @@ on:
           - reopen
           - schedule_close
       ad_id:
-        description: Existing allow-listed XML Id
+        description: Existing allow-listed feed XML Id
         required: false
         type: string
       new_price:
@@ -111,7 +111,11 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          python3 tools/manage_listing.py +            --file avito.xml +            --operation validate +            --confirm VALIDATE +            --expected-sha256 "$(sha256sum avito.xml | awk '{print $1}')"
+          python3 tools/manage_listing.py \
+            --file avito.xml \
+            --operation validate \
+            --confirm VALIDATE \
+            --expected-sha256 "$(sha256sum avito.xml | awk '{print $1}')"
           git config user.name "Aromatopia automation"
           git config user.email "actions@users.noreply.github.com"
           git add avito.xml
