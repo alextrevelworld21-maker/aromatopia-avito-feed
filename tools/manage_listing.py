@@ -17,6 +17,21 @@ ALLOWED_IDS = {
     "aromatopia-candle-coconut-mango-60",
     "aromatopia-diffuser-mandarin-coriander-150",
     "aromatopia-diffuser-wild-berries-honey-50",
+    "aromatopia-set-3-candles-mixed-20260908",
+    "aromatopia-set-2-diffusers-mixed-20260908",
+    "aromatopia-candle-mandarin-coriander-60-set-2-20260906",
+    "aromatopia-candle-mandarin-coriander-60-set-3-20260907",
+    "aromatopia-candle-wild-berries-honey-60-set-2-20260906",
+    "aromatopia-candle-wild-berries-honey-60-set-3-20260907",
+    "aromatopia-candle-coconut-mango-60-set-2-20260906",
+    "aromatopia-candle-coconut-mango-60-set-3-20260907",
+    "aromatopia-diffuser-mandarin-coriander-150-set-2-20260906",
+    "aromatopia-diffuser-mandarin-coriander-150-set-3-20260907",
+    "aromatopia-diffuser-wild-berries-honey-50-set-2-20260906",
+    "aromatopia-diffuser-wild-berries-honey-50-set-3-20260907",
+    "aromatopia-set-candle-diffuser-mandarin-20260908",
+    "aromatopia-set-candle-diffuser-berries-20260908",
+    "aromatopia-set-full-five-20260908",
 }
 
 CONFIRMATIONS = {
@@ -80,7 +95,7 @@ def validate_feed(text: str) -> dict[str, ET.Element]:
         ads[ad_id] = ad
 
     if set(ads) != ALLOWED_IDS:
-        die(f"active feed must contain exactly five base Ads; missing={sorted(ALLOWED_IDS - set(ads))}")
+        die(f"active feed IDs must exactly match the allow-list; missing={sorted(ALLOWED_IDS - set(ads))}; extra={sorted(set(ads) - ALLOWED_IDS)}")
     return ads
 
 
@@ -137,7 +152,7 @@ def main() -> None:
         return
 
     if not args.ad_id or args.ad_id not in ALLOWED_IDS:
-        die("ad-id must be one of the five base listing IDs")
+        die("ad-id must be an allow-listed feed ID")
     start, end, block = find_ad_block(text, args.ad_id)
 
     if args.operation == "set_price":
