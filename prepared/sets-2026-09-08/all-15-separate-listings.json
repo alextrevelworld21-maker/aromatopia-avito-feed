@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "active_feed": false,
+  "active_feed": true,
   "owner_rule": "Наборы только отдельными объявлениями; не переносить предложения или фотографии в одиночные SKU.",
   "listings": [
     {
@@ -275,18 +275,19 @@
       "Images": [
         "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-mandarin-coriander/08-mixed-20260908-v1.jpg"
       ],
-      "InteriorSubType": null,
+      "InteriorSubType": "Диффузоры, спреи и саше",
       "ListingFee": "Package",
       "AdStatus": "Free",
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ПОДГОТОВЛЕНО",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
-        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
-        "Подтвердить правила отдельного размещения",
-        "Подтвердить свободный лимит размещения"
-      ]
+        "Владелец прямо выбрал подкатегорию «Диффузоры, спреи и саше» 09.09.2026",
+        "Avito принял объявление кодом 3002",
+        "Платное продвижение не подключено"
+      ],
+      "AvitoId": 8252419953
     },
     {
       "Id": "aromatopia-set-candle-diffuser-berries-20260908",
@@ -296,18 +297,19 @@
       "Images": [
         "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/candle-wild-berries-honey/08-mixed-20260908-v1.jpg"
       ],
-      "InteriorSubType": null,
+      "InteriorSubType": "Диффузоры, спреи и саше",
       "ListingFee": "Package",
       "AdStatus": "Free",
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ПОДГОТОВЛЕНО",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
-        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
-        "Подтвердить правила отдельного размещения",
-        "Подтвердить свободный лимит размещения"
-      ]
+        "Владелец прямо выбрал подкатегорию «Диффузоры, спреи и саше» 09.09.2026",
+        "Avito принял объявление кодом 3002",
+        "Платное продвижение не подключено"
+      ],
+      "AvitoId": 8417723127
     },
     {
       "Id": "aromatopia-set-full-five-20260908",
@@ -317,18 +319,19 @@
       "Images": [
         "https://raw.githubusercontent.com/alextrevelworld21-maker/aromatopia-avito-feed/main/images/diffuser-wild-berries-honey/08-mixed-20260908-v2.jpg"
       ],
-      "InteriorSubType": null,
+      "InteriorSubType": "Диффузоры, спреи и саше",
       "ListingFee": "Package",
       "AdStatus": "Free",
       "Delivery": "ПВЗ",
       "DeliverySubsidy": 0,
       "Availability": "В наличии",
-      "status": "ПОДГОТОВЛЕНО",
+      "status": "ПРИНЯТО AVITO",
       "publication_checks": [
-        "Подтвердить категорию для свечей и диффузоров в одном комплекте",
-        "Подтвердить правила отдельного размещения",
-        "Подтвердить свободный лимит размещения"
-      ]
+        "Владелец прямо выбрал подкатегорию «Диффузоры, спреи и саше» 09.09.2026",
+        "Avito принял объявление кодом 3002",
+        "Платное продвижение не подключено"
+      ],
+      "AvitoId": 8384823084
     }
   ]
 }
