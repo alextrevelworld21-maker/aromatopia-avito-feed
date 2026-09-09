@@ -184,6 +184,13 @@
 
   <Ad>
     <Id>aromatopia-diffuser-wild-berries-honey-50</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AllowEmail>Да</AllowEmail>
     <Address>Санкт-Петербург</Address>
@@ -375,6 +382,13 @@
 
 <Ad>
     <Id>aromatopia-candle-wild-berries-honey-60-set-2-20260906</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -412,6 +426,13 @@
 
 <Ad>
     <Id>aromatopia-candle-wild-berries-honey-60-set-3-20260907</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -449,6 +470,13 @@
 
 <Ad>
     <Id>aromatopia-candle-coconut-mango-60-set-2-20260906</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -486,6 +514,13 @@
 
 <Ad>
     <Id>aromatopia-candle-coconut-mango-60-set-3-20260907</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -587,6 +622,13 @@
 
 <Ad>
     <Id>aromatopia-diffuser-wild-berries-honey-50-set-2-20260906</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -619,6 +661,13 @@
 
 <Ad>
     <Id>aromatopia-diffuser-wild-berries-honey-50-set-3-20260907</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
@@ -690,6 +739,13 @@
 
   <Ad>
     <Id>aromatopia-set-candle-diffuser-berries-20260908</Id>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
     <AllowEmail>Да</AllowEmail>
