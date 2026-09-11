@@ -394,13 +394,6 @@
     <Price>750</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
-    <Promo>Auto_1</Promo>
-    <PromoAutoOptions>
-      <PromoAutoOption>
-        <Region>Санкт-Петербург</Region>
-        <Budget>200</Budget>
-      </PromoAutoOption>
-    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -438,13 +431,6 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
-    <Promo>Auto_1</Promo>
-    <PromoAutoOptions>
-      <PromoAutoOption>
-        <Region>Санкт-Петербург</Region>
-        <Budget>200</Budget>
-      </PromoAutoOption>
-    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -482,13 +468,6 @@
     <Price>750</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
-    <Promo>Auto_1</Promo>
-    <PromoAutoOptions>
-      <PromoAutoOption>
-        <Region>Санкт-Петербург</Region>
-        <Budget>200</Budget>
-      </PromoAutoOption>
-    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -526,13 +505,6 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
-    <Promo>Auto_1</Promo>
-    <PromoAutoOptions>
-      <PromoAutoOption>
-        <Region>Санкт-Петербург</Region>
-        <Budget>200</Budget>
-      </PromoAutoOption>
-    </PromoAutoOptions>
   </Ad>
 
 <Ad>
