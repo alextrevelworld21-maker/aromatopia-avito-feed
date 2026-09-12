@@ -41,6 +41,13 @@
     <Price>390</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -85,6 +92,13 @@
     <Price>390</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -128,6 +142,13 @@
     <Price>390</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -166,6 +187,13 @@
     <Price>890</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -204,6 +232,13 @@
     <Price>890</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -247,6 +282,13 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -285,6 +327,13 @@
     <Price>1690</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -321,6 +370,13 @@
     <Price>750</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -357,6 +413,13 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -394,6 +457,13 @@
     <Price>750</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -431,6 +501,13 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -468,6 +545,13 @@
     <Price>750</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -505,6 +589,13 @@
     <Price>1050</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -537,6 +628,13 @@
     <Price>1690</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -569,6 +667,13 @@
     <Price>2390</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -601,6 +706,13 @@
     <Price>1690</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
 <Ad>
@@ -633,6 +745,13 @@
     <Price>2390</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
   <Ad>
     <Id>aromatopia-set-candle-diffuser-mandarin-20260908</Id>
@@ -672,6 +791,13 @@
     <Price>1190</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -712,6 +838,13 @@
     <Price>1190</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 
   <Ad>
@@ -754,5 +887,12 @@
     <Price>2690</Price>
     <Delivery>ПВЗ</Delivery>
     <DeliverySubsidy>0</DeliverySubsidy>
+    <Promo>Auto_1</Promo>
+    <PromoAutoOptions>
+      <PromoAutoOption>
+        <Region>Санкт-Петербург</Region>
+        <Budget>100</Budget>
+      </PromoAutoOption>
+    </PromoAutoOptions>
   </Ad>
 </Ads>
